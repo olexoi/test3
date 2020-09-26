@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0;
 
-import '@uniswap/v2-core/contracts/interfaces/IKittyPair.sol';
+import './interfaces/IKittyPair.sol';
 
 import "./SafeMath.sol";
 
